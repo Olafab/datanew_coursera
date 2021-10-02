@@ -1,4 +1,4 @@
 # datanew_coursera
 ## Editing the file
 
-This is a marddown file in this repository.
+This is a markdown file in this repository.
